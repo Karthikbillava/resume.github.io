@@ -37,3 +37,21 @@ p {
 li {
    color: #153462
 }
+
+a {
+  text-decoration: none;
+  color: #f2eac9;
+  background-color: #4E9CAF;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.submit-button {
+  align-content: center;
+  color: #f2eac9;
+  width: 100px;
+  background-color: #4E9CAF;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #eee;
+}
